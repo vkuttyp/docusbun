@@ -1,6 +1,11 @@
 export default defineNuxtConfig({
   extends: ['docus'],
   modules: ['@nuxtjs/plausible', '@nuxtjs/i18n', 'nuxt-studio'],
+
+  nitro: {
+    preset: 'bun'
+  },
+
   css: ['~/assets/css/main.css'],
   site: {
     name: 'Docus',
@@ -32,10 +37,11 @@ export default defineNuxtConfig({
   studio: {
     route: '/admin',
     repository: {
-      owner: 'nuxt-content',
-      repo: 'docus',
+      owner: 'vkuttyp',
+      repo: 'docusbun',
       branch: 'main',
       rootDir: 'docs',
+      provider: 'github',
     },
   },
 })
