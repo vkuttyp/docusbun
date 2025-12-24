@@ -9,7 +9,7 @@ seo:
 Write beautiful docs with Markdown.
 
 #description
-After getting help from chatgpt.10 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. :br Docus brings the best of the Nuxt ecosystem.
+After getting help from chatgpt.11 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. :br Docus brings the best of the Nuxt ecosystem.
 
 #links
   :::u-button
