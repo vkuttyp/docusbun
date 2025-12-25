@@ -31,7 +31,7 @@
     "@nuxt/ui": "^4.3.0",
     "@nuxtjs/i18n": "^10.2.1",
     "@nuxtjs/mcp-toolkit": "^0.5.2",
-    "@nuxtjs/mdc": "^0.19.2",
+    "@nuxtjs/mdc": "^0.19.1",
     "@nuxtjs/robots": "^5.6.7",
     "@vueuse/core": "^13.9.0",
     "defu": "^6.1.4",
@@ -49,6 +49,7 @@
     "zod-to-json-schema": "^3.25.0"
   },
   "peerDependencies": {
-    "nuxt": "4.2.2"
+    "better-sqlite3": "12.x",
+    "nuxt": "4.x"
   }
 }

@@ -141,10 +141,10 @@ To contribute to the CLI tool:
 git clone https://github.com/nuxt-content/docus
 
 # Install dependencies
-bun install
+pnpm install
 
 # Run the dev server to run the docus docs
-bun run dev
+pnpm run dev
 ```
 
 ### Package Structure

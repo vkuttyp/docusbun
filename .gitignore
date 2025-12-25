@@ -25,7 +25,7 @@ logs
 !.env.example
 
 # Template
-template/bun-lock.yaml
+template/pnpm-lock.yaml
 
 # npm pack
 *.tgz
@@ -39,7 +39,7 @@ template/bun-lock.yaml
 .history
 
 # Starters
-.starters/default/bun-lock.yaml
-.starters/default/bun-workspace.yaml
-.starters/i18n/bun-lock.yaml
-.starters/i18n/bun-workspace.yaml
+.starters/default/pnpm-lock.yaml
+.starters/default/pnpm-workspace.yaml
+.starters/i18n/pnpm-lock.yaml
+.starters/i18n/pnpm-workspace.yaml

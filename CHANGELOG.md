@@ -320,7 +320,7 @@
 * **landing:** neutral and primary in iframe command menu ([e16717d](https://github.com/nuxt-content/docus/commit/e16717df0ae90cea71bf9c83eb8056c4a3d59202))
 * **package:** add repository ([cebd917](https://github.com/nuxt-content/docus/commit/cebd91740a797b7c4f94dd360b335a289f18e2e6))
 * **package:** dev without rebuild ([67fad9e](https://github.com/nuxt-content/docus/commit/67fad9ec773caeac517d737dfc8370b1302d4de5))
-* **package:** set bun version ([b96e34b](https://github.com/nuxt-content/docus/commit/b96e34b6cfb6a070667e812925c5058585710169))
+* **package:** set pnpm version ([b96e34b](https://github.com/nuxt-content/docus/commit/b96e34b6cfb6a070667e812925c5058585710169))
 * **pages:** possibility to set gh edit url ([85a01e7](https://github.com/nuxt-content/docus/commit/85a01e79817c53142472c49a4e1db684c71c7b3e))
 * **schema:** toc ([00b90d8](https://github.com/nuxt-content/docus/commit/00b90d89fe16db9ee92894e8bb1e797674c9cd93))
 * **seo:** default title and description ([0321956](https://github.com/nuxt-content/docus/commit/03219562b9fa02eed1ee1bbf4cbab31092028911))
