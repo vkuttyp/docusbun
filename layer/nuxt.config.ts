@@ -29,9 +29,9 @@ export default defineNuxtConfig({
     enabled: true,
   },
   content: {
-    experimental: {
-      sqliteConnector: 'native',
-    },
+    // experimental: {
+    //   sqliteConnector: 'native',
+    // },
     build: {
       markdown: {
         highlight: {
