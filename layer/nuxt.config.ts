@@ -30,7 +30,8 @@ export default defineNuxtConfig({
   },
   content: {
   database: {
-      type: 'sqlite'
+      type: 'sqlite',
+      filename: ':memory:'
     },
     build: {
       markdown: {
@@ -49,7 +50,6 @@ export default defineNuxtConfig({
   },
   experimental: {
     asyncContext: true,
-    sqliteConnector: 'bun',
   },
   compatibilityDate: '2025-07-22',
   nitro: {
