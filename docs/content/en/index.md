@@ -9,7 +9,7 @@ seo:
 Write beautiful docs with Markdown.
 
 #description
-Try number: 1 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. :br Docus brings the best of the Nuxt ecosystem.
+Try number: 2 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. :br Docus brings the best of the Nuxt ecosystem.
 
 #links
   :::u-button
