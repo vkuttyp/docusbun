@@ -31,7 +31,7 @@ export default defineNuxtConfig({
   content: {
   database: {
       type: 'sqlite'
-    }
+    },
     build: {
       markdown: {
         highlight: {
